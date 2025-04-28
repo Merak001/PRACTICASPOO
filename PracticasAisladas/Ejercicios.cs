@@ -27,7 +27,7 @@ public class Condicional
 
 }
 
-public class Libro
+public class Librox
 {
     public string  Titulo { get; set; }
     public string Autor { get; set; }
@@ -44,7 +44,6 @@ public class Libro
         Console.WriteLine($"_______________________");
     }
 }
-
 
 
 

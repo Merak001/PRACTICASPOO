@@ -1,6 +1,6 @@
 ﻿using System;
 
-class Program
+class ProgramL
 {
     static void Main(string[] args)
     {/*
@@ -64,29 +64,47 @@ class Program
         animal2.Color="rosa";
         animal2.MostrarInfo();*/        
 
-
-
-        List<Libro>libros = new List<Libro>();
+        
+        /* Ejercicio de libors con poo
+        List<Librox>libros = new List<Librox>();
 
         for(int i=0; i<3; i++){
-            Libro libro = new Libro();
-
-            libro.Autor=$"Autor {i}";
-            libro.Titulo=$"Titulo {i}";
-
+            Librox libro = new Librox();
+            libro.Autor="Autor "+ i;
+            libro.Titulo="Titulo "+ i;
             libros.Add(libro);
-
         }
 
         foreach (var libro in libros)
         {
          libro.DatosLibro();   
         }
-        Libro libroz = new Libro();
+
+        Librox libroz = new Librox();
         libroz.Autor="Desconocido";
         libroz.Titulo="Desconocido";
 
         libroz.DatosLibro("Apocrifo");
+*/
+
+        LibroController libros = new LibroController();
+
+        for(int i=0; i<3;i++){
+            Console.WriteLine($"Ingresa el nombre del libro {i + 1}");
+             string autor = Console.ReadLine();
+
+            Console.WriteLine($"Ingresa el Autor del libro {i + 1}:");
+            string titulo = Console.ReadLine();
+
+            libros.AgregarLibro(autor,titulo);
+        }
+
+        var listaLibros = libros.ObtenerLibors();
+        foreach(var libro in listaLibros){
+            Console.WriteLine($"Autor: {libro.Autor}");
+            Console.WriteLine($"Título: {libro.Titulo}");
+            Console.WriteLine("-----------------");
+        }
 
         
     }
