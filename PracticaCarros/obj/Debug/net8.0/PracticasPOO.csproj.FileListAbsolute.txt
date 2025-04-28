@@ -1,0 +1,15 @@
+/root/Proyects/Net/PracticasPOO/PracticaCarros/bin/Debug/net8.0/PracticasPOO
+/root/Proyects/Net/PracticasPOO/PracticaCarros/bin/Debug/net8.0/PracticasPOO.deps.json
+/root/Proyects/Net/PracticasPOO/PracticaCarros/bin/Debug/net8.0/PracticasPOO.runtimeconfig.json
+/root/Proyects/Net/PracticasPOO/PracticaCarros/bin/Debug/net8.0/PracticasPOO.dll
+/root/Proyects/Net/PracticasPOO/PracticaCarros/bin/Debug/net8.0/PracticasPOO.pdb
+/root/Proyects/Net/PracticasPOO/PracticaCarros/obj/Debug/net8.0/PracticasPOO.GeneratedMSBuildEditorConfig.editorconfig
+/root/Proyects/Net/PracticasPOO/PracticaCarros/obj/Debug/net8.0/PracticasPOO.AssemblyInfoInputs.cache
+/root/Proyects/Net/PracticasPOO/PracticaCarros/obj/Debug/net8.0/PracticasPOO.AssemblyInfo.cs
+/root/Proyects/Net/PracticasPOO/PracticaCarros/obj/Debug/net8.0/PracticasPOO.csproj.CoreCompileInputs.cache
+/root/Proyects/Net/PracticasPOO/PracticaCarros/obj/Debug/net8.0/PracticasPOO.sourcelink.json
+/root/Proyects/Net/PracticasPOO/PracticaCarros/obj/Debug/net8.0/PracticasPOO.dll
+/root/Proyects/Net/PracticasPOO/PracticaCarros/obj/Debug/net8.0/refint/PracticasPOO.dll
+/root/Proyects/Net/PracticasPOO/PracticaCarros/obj/Debug/net8.0/PracticasPOO.pdb
+/root/Proyects/Net/PracticasPOO/PracticaCarros/obj/Debug/net8.0/PracticasPOO.genruntimeconfig.cache
+/root/Proyects/Net/PracticasPOO/PracticaCarros/obj/Debug/net8.0/ref/PracticasPOO.dll
